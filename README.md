@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+
+Hi, winikasnow here. 
+I like ice-creams a lot.
